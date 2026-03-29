@@ -4,3 +4,5 @@ streamlit
 lxml
 ta
 altair==4.2.2
+imghdr
+filetype
